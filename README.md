@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **90 Days Of Data Science**
 
-- 🌱 I’m currently learning **Daata Science and Machine Learning.**
+- 🌱 I’m currently learning **Data Science and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **data science projects**
 
