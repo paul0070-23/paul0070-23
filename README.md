@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Paulami Maitra</h1>
-<h3 align="center">I'm a passionate data enthusiast who loves turning raw data into meaningful insights. Whether it's through data analysis, visualization, or machine learning, I enjoy exploring the endless possibilities that data offers. I am also interested in web development and enjoy building user-friendly web applications.</h3>
-
-- 🔭 I’m currently working on **90 Days Of Data Science**
-
-- 🌱 I’m currently learning **Data Science and Machine Learning.**
-
-- 👯 I’m looking to collaborate on **data science projects**
+<h3 align="center"> 
+I work as an Analyst Programmer and I’m currently learning my way into data science and GenAI.  
+Exploring tools like n8n, Supabase, and AI workflows to build smarter systems.  
+Always up for building things that make life (or work) a bit easier.  
+Open to learning, side projects, or collab opportunities 🤝  
+</h3>
 
 - 📫 How to reach me **paulamimaitra24@gmail.com**
 
@@ -16,6 +15,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul0070-23&" alt="paul0070-23" /></p>
